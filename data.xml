@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+<root>
+ <row>
+   <Sorszám>1</Sorszám>
+   <Feladat>leltározás</Feladat>
+   <Időpont>2019.03.16</Időpont>
+   <Prioritás>2</Prioritás>
+   <Név>Kiss József</Név>
+ </row>
+ <row>
+   <Sorszám>2</Sorszám>
+   <Feladat>targonca vásárlás</Feladat>
+   <Időpont>2019.04.16</Időpont>
+   <Prioritás>2</Prioritás>
+   <Név>Nagy Pál</Név>
+ </row>
+ <row>
+   <Sorszám>3</Sorszám>
+   <Feladat>láncfűrészek megélezése</Feladat>
+   <Időpont>2019.04.10</Időpont>
+   <Prioritás>1</Prioritás>
+   <Név>Kovács Máté</Név>
+ </row>
+ <row>
+   <Sorszám>4</Sorszám>
+   <Feladat>gumi csere a furgonon</Feladat>
+   <Időpont>2019.03.20</Időpont>
+   <Prioritás>2</Prioritás>
+   <Név>Kiss József</Név>
+ </row>
+ <row>
+   <Sorszám>5</Sorszám>
+   <Feladat>2018 elemzése</Feladat>
+   <Időpont>2019.01.09</Időpont>
+   <Prioritás>3</Prioritás>
+   <Név>Takács Mária</Név>
+ </row>
+ <row>
+   <Sorszám>6</Sorszám>
+   <Feladat>Semmise</Feladat>
+   <Időpont>2012.12.12</Időpont>
+   <Prioritás>2</Prioritás>
+   <Név>Próba Módostás</Név>
+ </row>
+</root>

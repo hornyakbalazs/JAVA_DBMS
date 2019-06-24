@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Sorszam>1</Sorszam>
+    <Feladat>leltarozas</Feladat>
+    <Idopont>2019.03.16</Idopont>
+    <Prioritas>2</Prioritas>
+    <Nev>Kiss Jozsef</Nev>
+  </row>
+  <row>
+    <Sorszam>2</Sorszam>
+    <Feladat>targonca vasarlas</Feladat>
+    <Idopont>2019.04.16</Idopont>
+    <Prioritas>2</Prioritas>
+    <Nev>Nagy Pal</Nev>
+  </row>
+  <row>
+    <Sorszam>3</Sorszam>
+    <Feladat>lancfureszek megelezese</Feladat>
+    <Idopont>2019.04.10</Idopont>
+    <Prioritas>1</Prioritas>
+    <Nev>Kovacs Mate</Nev>
+  </row>
+  <row>
+    <Sorszam>4</Sorszam>
+    <Feladat>gumi csere a furgonon</Feladat>
+    <Idopont>2019.03.20</Idopont>
+    <Prioritas>2</Prioritas>
+    <Nev>Kiss Jozsef</Nev>
+  </row>
+  <row>
+    <Sorszam>5</Sorszam>
+    <Feladat>2018 elemzese</Feladat>
+    <Idopont>2019.01.09</Idopont>
+    <Prioritas>3</Prioritas>
+    <Nev>Takacs Maria</Nev>
+  </row>
+  <row>
+    <Sorszam>6</Sorszam>
+    <Feladat>Semmise</Feladat>
+    <Idopont>2012.12.12</Idopont>
+    <Prioritas>2</Prioritas>
+    <Nev>Proba Modostas</Nev>
+  </row>
+</root>
